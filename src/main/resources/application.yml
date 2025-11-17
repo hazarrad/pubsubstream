@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: pubstream
+
+
+gcp:
+  resourcesFolder: /app/resources/
+  bucketName: exportbucks
+  key: \key.json
+  projectId: gke-greentech
+  topicId: HEY
